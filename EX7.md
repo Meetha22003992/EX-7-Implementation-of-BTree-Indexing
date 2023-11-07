@@ -15,7 +15,8 @@ Else, search the right child of the key.<br>
 </div>
 ## PROGRAM:
   
-  ```python
+  ```
+python
 # Searching a key on a B-tree in Python
 # Create a node
 class BTreeNode:
